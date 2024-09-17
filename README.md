@@ -55,3 +55,5 @@ project-root/
 
 - [Vite 公式ドキュメント（日本語版）](https://ja.vitejs.dev/)
 - [Node.js のインストール方法](https://nodejs.org/en)
+- [handlebars の公式ドキュメント](https://handlebarsjs.com/)
+- [Sass(SCSS) の公式ドキュメント](https://sass-lang.com/)
